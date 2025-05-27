@@ -6,6 +6,8 @@
 
 A simple Python script that encrypts and decrypts files in a folder using symmetric encryption (Fernet). Includes a secret passphrase check for decryption. Designed purely for educational purposes to demonstrate basic file encryption concepts.
 
+![screenshot](https://github.com/Sergeb250/Ransomeware/blob/b42086301f761e151c330479e3c28bd5b0923c7d/Screenshot%202025-05-25%20202135.png)
+
 ---
 
 ## 📁 Project Structure
